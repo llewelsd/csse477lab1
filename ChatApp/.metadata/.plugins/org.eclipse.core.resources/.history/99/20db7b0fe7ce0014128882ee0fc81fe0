@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <category-def name="Rose-Hulman Multi-Cast Application" label="Rose-Hulman Multi-Cast Application">
+      <description>
+         A multi-cast chat plug in for ECLIPSE IDE
+      </description>
+   </category-def>
+</site>

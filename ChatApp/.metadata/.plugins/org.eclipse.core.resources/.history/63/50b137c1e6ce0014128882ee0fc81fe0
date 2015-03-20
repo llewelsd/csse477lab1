@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="edu.rosehulman.chatapp"
+      label="Rose-Hulman Chat Application"
+      version="1.0.0.alpha"
+      provider-name="Simon Llewellyn">
+
+   <description url="http://www.rose-hulman.edu/~llewelsd/csse/update/multicast">
+      This software provides multicast chat support for ECLIPSE and uses UDP 5000 for communication
+   </description>
+
+   <copyright url="http://www.rose-hulman.edu/~llewelsd">
+      Copyright (c) 2015 Simon Llewellyn
+Do whatever. Anyone can use this for personal or academic use.
+No commercial use is allowed because no money for you.
+   </copyright>
+
+   <license url="http://opensource.org/licenses/MIT">
+      Copyright (c) 2015 Simon Llewellyn
+Do whatever. Anyone can use this for personal or academic use.
+No commercial use is allowed because no money for you.
+   </license>
+
+</feature>

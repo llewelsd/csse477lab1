@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Rose Hulman Chat Extension
+Bundle-SymbolicName: edu.rosehulman.chat.extension
+Bundle-Version: 1.0.0.alpha
+Bundle-Activator: edu.rosehulman.chat.extension.Activator
+Bundle-Vendor: Simon Llewellyn
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy

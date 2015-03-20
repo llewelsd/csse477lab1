@@ -1,0 +1,6 @@
+package edu.rosehulman.chat.extension;
+
+import edu.rosehulman.chat.communication.Message;
+public class CRExtension {
+
+}
